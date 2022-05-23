@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Force microsoft docs to US
-// @author       Xadizyj
+// @author       Xadozuk
 // @match        https://docs.microsoft.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
 // @grant        none
