@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         MSDocsInEnglish
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    xadozuk.msdocsinenglish
+// @version      1.0
 // @description  Force microsoft docs to US
 // @author       Xadozuk
 // @match        https://docs.microsoft.com/*
 // @match        https://learn.microsoft.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/xadozuk/tampermonkey-scripts/refs/heads/main/msdocs_in_english.js
+// @updateURL    https://raw.githubusercontent.com/xadozuk/tampermonkey-scripts/refs/heads/main/msdocs_in_english.js
 // ==/UserScript==
 
 (function() {
